@@ -1,0 +1,54 @@
+
+/* This page was created by Jennifer Argote for IT 207 002. */
+
+body {
+	color: #65016c;
+	background-color: #cb60d3;
+	text-align: center;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: #aef26d;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: #d2f700;
+	border-bottom: 2px solid #920031;
+}
+
+#container {
+	background-color: #f06c98;
+	margin: auto;
+	padding: 10px 15px;
+	width: 400px;
+	border: 3px solid #920031;
+}
+
+table {
+	margin: 15px auto;
+	border-collapse: collapse;
+}
+td , th{
+	border: 2px solid #666;
+	padding: 10px;
+}
+
+th {
+	background-color: #aef26d;
+}
+
+td {
+	background-color: #e6fb71;
+}
+
+td.productName {
+	width: 155px;
+}
+
+td.price {
+	width: 65px;
+}
